@@ -1,0 +1,9 @@
+D:\Programowanie\VisualProjects\ContactBook\ContactBook\ContactBook\bin\Debug\ContactBook.exe.config
+D:\Programowanie\VisualProjects\ContactBook\ContactBook\ContactBook\obj\Debug\ContactBook.Form1.resources
+D:\Programowanie\VisualProjects\ContactBook\ContactBook\ContactBook\obj\Debug\ContactBook.Properties.Resources.resources
+D:\Programowanie\VisualProjects\ContactBook\ContactBook\ContactBook\obj\Debug\ContactBook.csproj.GenerateResource.Cache
+D:\Programowanie\VisualProjects\ContactBook\ContactBook\ContactBook\bin\Debug\ContactBook.exe
+D:\Programowanie\VisualProjects\ContactBook\ContactBook\ContactBook\bin\Debug\ContactBook.pdb
+D:\Programowanie\VisualProjects\ContactBook\ContactBook\ContactBook\obj\Debug\ContactBook.exe
+D:\Programowanie\VisualProjects\ContactBook\ContactBook\ContactBook\obj\Debug\ContactBook.pdb
+D:\Programowanie\VisualProjects\ContactBook\ContactBook\ContactBook\obj\Debug\ContactBook.csprojResolveAssemblyReference.cache
